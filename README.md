@@ -5,4 +5,4 @@ Cars are randomly generated along the Y-axis and will move from the right edge o
 When the turtle hits the top edge of the screen, it moves back to the original position and the player levels up on the next level, the car speed increases.
 When the turtle collides with a car, it's game over and everything stops.
 
-![TurtleCrossingGame](https://user-images.githubusercontent.com/63019595/136884514-84d14696-ac94-4027-8287-989f5d066d7e.png)
+![TurtleCrossingGame](https://user-images.githubusercontent.com/63019595/136885706-d42fa390-a93c-4975-aa65-d874559b442c.png)
